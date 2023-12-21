@@ -52,11 +52,7 @@ export default function ({children}) {
                         background: colorBgContainer,
                     }}
                 />
-                <Content
-                    style={{
-                        margin: '1rem',
-                    }}
-                >
+                <Content style={{margin: '1rem',}}>
                     {/*<Breadcrumb
                         style={{
                             margin: '16px 0',
